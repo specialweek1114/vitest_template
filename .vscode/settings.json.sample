@@ -1,0 +1,17 @@
+{
+  "eslint.codeActionsOnSave.mode": "all",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.ignorePath": ".prettierignore",
+  "prettier.configPath": ".prettierrc",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+  }
+}
